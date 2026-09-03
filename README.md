@@ -45,3 +45,7 @@ The main objective of this project is to transform hospital emergency room data 
 
 **Aman Pareek**
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
+
+## 📸 Dashboard Preview
+
+![Hospital Emergency Room Dashboard](dashboard_preview.png)
